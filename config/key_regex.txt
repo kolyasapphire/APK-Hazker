@@ -1,0 +1,16 @@
+AIza[0-9A-Za-z\\-_]{35}
+(A3T[A-Z0-9]|AKIA|AGPA|AIDA|AROA|AIPA|ANPA|ANVA|ASIA)[A-Z0-9]{16}
+amzn\.mws\.[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}
+xox[baprs]-([0-9a-zA-Z]{10,48})?
+\-\-\-\-\-BEGIN.((EC|PGP|DSA|RSA|OPENSSH).)?PRIVATE\sKEY(.BLOCK)?\-\-\-\-\-
+(?i)[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}
+(?i)[0-9a-f]{32}-us[0-9]{1,2}
+(?i)key-[0-9a-z]{32}
+access_token\$production\$[0-9a-z]{16}\$[0-9a-f]{32}
+sk_live_[0-9a-z]{32}
+SG\.[\w_]{16,32}\.[\w_]{16,64}
+https:\/\/hooks\.slack\.com\/services\/T[a-zA-Z0-9_]{8}\/B[a-zA-Z0-9_]{8}\/[a-zA-Z0-9_]{24}
+(?i)[sr]k_live_[0-9a-zA-Z]{24}
+sq0atp-[0-9A-Za-z\-_]{22}
+sq0csp-[0-9A-Za-z\\-_]{43}
+(?i)SK[0-9a-f]{32}
